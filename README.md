@@ -1,0 +1,16 @@
+//.............................................................................
+//.DDDDDDDDDDD.................................................................
+//.DDDDDDDDDDDD................................................................
+//.DDDDDDDDDDDDD...............................................................
+//.DDDDD...DDDDD.......aaaaaaa..... vvvv..vvvv ......ooooooo.......nnnnnnnnnn..
+//.DDDDD...DDDDD.....aaaaaaaaaa.....vvvv..vvvv .....ooooooooo......nnnnnnnnnn..
+//.DDDDD....DDDD.....aaaaaaaaaa.....vvvvvvvvvv.....ooooooooooo.....nnnnnnnnnn..
+//.DDDDD....DDDD.....aaaa.aaaaa.....vvvvvvvvvv.....ooooo.ooooo.....nnnnn.nnnn..
+//.DDDDD....DDDD......aaaaaaaaa......vvvvvvvv......oooo...oooo.....nnnnn.nnnn..
+//.DDDDD...DDDDD.....aaaaaaaaaa......vvvvvvvv......oooo...oooo.....nnnnn.nnnn..
+//.DDDDD..DDDDDD.....aaaaa.aaaa......vvvvvvvv......oooo...oooo.....nnnnn.nnnn..
+//.DDDDDDDDDDDD......aaaaaaaaaa.......vvvvvv.......ooooooooooo.....nnnnn.nnnn..
+//.DDDDDDDDDDDD......aaaaaaaaaa.......vvvvvv........ooooooooo......nnnnn.nnnn..
+//.DDDDDDDDDDD.......aaaaaaaaaa........vvvv..........oooooooo......nnnnn.nnnn..
+//.....................aaa............................ooooo....................
+//............................................................................/
